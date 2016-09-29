@@ -1,6 +1,10 @@
 # Deep Learning with Tensorflow
 A sample on how to use Scikit and Tensorflow to predict survival on the Titanic. The data is obtained from [kaggle](https://www.kaggle.com/c/titanic/data).
 
+I published my code/results on Github as part of my [Data Science hype presentation](https://docs.google.com/presentation/d/14MMbdKX9Vx62e4cQbP3AeNfZ3se1bY2DCJgtzOiH_SQ/edit?usp=sharing).
+
+Also check out my small [Modern Portfolio Theory with R project](https://github.com/nbau21/Modern-Portfolio-Theory-With-R)!
+
 ## Sample Result
 ```
 INFO:tensorflow:Step 101: loss = 0.568274
